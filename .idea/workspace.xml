@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="linux-util:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a82dcba-f410-45df-8ebb-7449aea82120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files (x86)/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files (x86)\apache-maven-3.6.3\mine_conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oESu1IAix8cfzwkXX2auNeDSeQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="linux-util" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22385861" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ajie.loginsendmail.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ajie.loginsendmail.App" />
+      <module name="linux-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.loginsendmail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IpUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ajie.loginsendmail.utils.IpUtil" />
+      <module name="linux-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.loginsendmail.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMailUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ajie.loginsendmail.utils.SendMailUtil" />
+      <module name="linux-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.loginsendmail.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.IpUtil" />
+        <item itemvalue="Application.SendMailUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a82dcba-f410-45df-8ebb-7449aea82120" name="Default Changelist" comment="" />
+      <created>1612850475564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612850475564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1612974040351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1612974040351" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612974030576">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1612974030576" />
+    <state x="371" y="95" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1612878408060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="95" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680@0.0.1280.680" timestamp="1612878408060" />
+    <state x="396" y="42" key="#xdebugger.evaluate" timestamp="1612973308712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="42" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1612973308712" />
+    <state width="414" height="466" key="DebuggerActiveHint" timestamp="1612973128301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="414" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1612973128301" />
+    <state x="408" y="111" key="FileChooserDialogImpl" timestamp="1612974035569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="408" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1612974035569" />
+    <state width="1237" height="16" key="GridCell.Tab.0.bottom" timestamp="1612975039568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612975039568" />
+    <state width="1237" height="16" key="GridCell.Tab.0.center" timestamp="1612975039568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1612975039568" />
+    <state width="1237" height="16" key="GridCell.Tab.0.left" timestamp="1612975039568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1612975039568" />
+    <state width="1237" height="16" key="GridCell.Tab.0.right" timestamp="1612975039568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1612975039568" />
+    <state width="1237" height="16" key="GridCell.Tab.1.bottom" timestamp="1612975039897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612975039897" />
+    <state width="1237" height="16" key="GridCell.Tab.1.center" timestamp="1612975039897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1612975039897" />
+    <state width="1237" height="16" key="GridCell.Tab.1.left" timestamp="1612975039897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1612975039897" />
+    <state width="1237" height="16" key="GridCell.Tab.1.right" timestamp="1612975039897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1612975039897" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1612966968258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1612966968258" />
+    <state x="362" y="82" width="576" height="524" key="StructurePopup" timestamp="1612972878267">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1612972878267" />
+    <state x="325" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1612878168771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1612878168771" />
+    <state x="271" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612973548699">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="271" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1612973548699" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1612968883465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1612968883465" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ajie/loginsendmail/LoginSendMail.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
