@@ -19,10 +19,11 @@ public class LoginSendMail {
         ipQueryApi.setIpstackAccessKey("4b09d9dbaba703ee541d677f9c216b5c");
     }
 
-    public static void run() {
+    public static void run(String cmd) {
+		System.out.println(cmd);
         boolean flag = false;
         try {
-            String msg = ExecuteUtil.execute(" who -a | grep tl");
+            String msg = ExecuteUtil.execute(cmd);
             //提取ip地址
             String ip = IpUtil.pickupIp(msg);
             if (StringUtils.isNoneBlank(ip)) {
@@ -47,6 +48,7 @@ public class LoginSendMail {
             System.out.println(msg);
             SendMailUtil.sendMail(msg);
         } catch (Exception e) {
+			e.printStackTrace();
             if (!flag) {
                 //发送邮件通知命令执行失败
                 try {

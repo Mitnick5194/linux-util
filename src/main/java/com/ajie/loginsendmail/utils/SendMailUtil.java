@@ -20,16 +20,19 @@ public class SendMailUtil {
         Session session = Session.getInstance(properties);
         Message message = new MimeMessage(session);
         message.setFrom(new InternetAddress("1149023676@qq.com"));
-        InternetAddress[] receipients = new InternetAddress[1];
+        InternetAddress[] receipients = new InternetAddress[2];
         receipients[0] = new InternetAddress("1149023676@qq.com");
+		receipients[1] = new InternetAddress("844824689@qq.com");
         message.setRecipients(Message.RecipientType.TO, receipients);
-        message.setSubject("linux登录提醒");
+        message.setSubject("qy服务器登录提醒");
         message.setText(msg);
         Transport transport = session.getTransport();
         // 连接自己的邮箱账户
         transport.connect("1149023676@qq.com", "tgfivisrjlghjcdh");// 密码为QQ邮箱开通的stmp服务后得到的客户端授权码
         // 发送邮件
+		System.out.println("开始发送邮件");
         transport.sendMessage(message, message.getAllRecipients());
+		System.out.println("发送完毕");
         transport.close();
     }
 }
