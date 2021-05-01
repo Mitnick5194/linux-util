@@ -20,7 +20,7 @@ public class ExecuteUtil {
             throw new Exception("无效命令");
         }
         String[] cmdArr = new String[3];
-        cmdArr[0] = "/bin/sh";
+       cmdArr[0] = "/bin/sh";
         cmdArr[1] = "-c";
         cmdArr[2] = cmd;
         Process exec = Runtime.getRuntime().exec(cmdArr);

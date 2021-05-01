@@ -1,5 +1,6 @@
-M:\_idea_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\IpUtil.java
-M:\_idea_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\ExecuteUtil.java
-M:\_idea_ws\linux-util\src\main\java\com\ajie\loginsendmail\App.java
-M:\_idea_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\SendMailUtil.java
-M:\_idea_ws\linux-util\src\main\java\com\ajie\loginsendmail\LoginSendMail.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\Config.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\LoginSendMail.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\IpUtil.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\ExecuteUtil.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\utils\SendMailUtil.java
+C:\Users\niezhenjie\_mine_ws\linux-util\src\main\java\com\ajie\loginsendmail\App.java
